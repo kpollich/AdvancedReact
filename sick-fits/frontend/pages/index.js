@@ -5,7 +5,6 @@ class HomePage extends Component {
   render() {
     return (
       <div>
-        <p>Hey!</p>
         <Link href="/sell">
           <a>Sell</a>
         </Link>
